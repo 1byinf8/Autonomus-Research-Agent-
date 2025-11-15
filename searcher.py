@@ -9,7 +9,7 @@ from planner import plan as plan_output
 # ==========================
 # CONFIG
 # ==========================
-TAVILY_API_KEY = "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"
+TAVILY_API_KEY = ""
 TAVILY_URL = "https://api.tavily.com/search"
 
 HEADERS = {
