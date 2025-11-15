@@ -3,7 +3,7 @@ from google import genai
 # -------------------------------
 # CONFIG
 # -------------------------------
-API_KEY = "AIzaSyCioZspKL8LBOl-lWF9oK2NkfvW_ibMoU0"
+API_KEY = ""
 MODEL_NAME = "gemini-2.5-flash"
 
 query = "What is the reason of US recession"
