@@ -5,11 +5,14 @@ from urllib.parse import quote
 import json
 from typing import List, Dict, Optional
 from planner import plan as plan_output
+from dotenv import load_dotenv
+import os
 
 # ==========================
 # CONFIG
 # ==========================
-TAVILY_API_KEY = ""
+load_dotenv()
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 TAVILY_URL = "https://api.tavily.com/search"
 
 HEADERS = {

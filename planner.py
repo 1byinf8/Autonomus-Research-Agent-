@@ -1,9 +1,12 @@
 from google import genai
+from dotenv import load_dotenv
+import os
 
 # -------------------------------
 # CONFIG
 # -------------------------------
-API_KEY = ""
+load_dotenv()
+API_KEY = os.getenv("GEMINI_API_KEY")
 MODEL_NAME = "gemini-2.5-flash"
 
 query = "What is the reason of US recession"
