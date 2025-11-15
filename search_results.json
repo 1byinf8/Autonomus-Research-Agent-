@@ -1,0 +1,604 @@
+[
+  {
+    "sub_question_id": "q1",
+    "sub_question_text": "How is a US recession defined and officially identified?",
+    "queries_executed": [
+      {
+        "query": "US recession definition NBER",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "criteria for US recession",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "NBER Business Cycle Dating Committee indicators",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "National Bureau of Economic Research recession identification methodology",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "what is a recession in America",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "historical US recession definitions",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      }
+    ],
+    "total_results_found": 38,
+    "results": [
+      {
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12774/IF12774.2.pdf",
+        "title": "[PDF] Defining Recession - Congress.gov",
+        "snippet": "economic research\u2014is generally credited with determining recession start and end dates in the United States. Technical Definition of Recession NBER defines recession as a \u201csignificant decline in economic activity that is spread across the economy and that lasts more than a few months,\u201d but it does not have a set numerical formula to determine a recession. Instead, NBER evaluates three criteria\u2014depth, diffusion, and duration\u2014using a variety of monthly economic indicators including income, [...] policy. This In Focus discusses how U.S. recessions are officially defined, what rules of thumb economists and policymakers use to gauge the health of the economy, and how accurate those unofficial measures tend to be. For further discussion of the business cycle and the economy, see CRS In Focus IF10411, Introduction to U.S. Economy: The Business Cycle and Growth, by Lida R. Weinstock. Dating the Business Cycle Although fluctuations in economic activity are referred to as a \u201ccycle,\u201d the [...] characterized as \u201cnegative growth.\u201d GDP is the primary measure of economic activity, so it stands to reason that recessions would feature some amount of negative growth. Each of the 12 U.S. recessions since 1947 has featured negative growth. However, not all recessions feature two consecutive quarters of negative growth. For example, the recession that occurred at the beginning of the COVID-19 pandemic was two months long, not even the length of one quarter. In addition, two quarters of",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.9333333333333333,
+        "domain_score": 0.3,
+        "rank_score": 1.2333333333333334
+      },
+      {
+        "url": "https://www.bea.gov/help/faq/485",
+        "title": "Recession: How is that defined? - Bureau of Economic Analysis",
+        "snippet": "In general usage, the word recession connotes a marked slippage in economic activity. While gross domestic product (GDP) is the broadest measure of economic activity, the often-cited identification of a recession with two consecutive quarters of negative GDP growth is not an official designation. The designation of a recession is the province of a committee of experts at the National Bureau of Economic Research (NBER), a private non-profit research organization that focuses on understanding the [...] U.S. economy. The NBER recession is a monthly concept that takes account of a number of monthly indicators\u2014such as employment, personal income, and industrial production\u2014as well as quarterly GDP growth. Therefore, while negative GDP growth and recessions closely track each other, the consideration by the NBER of the monthly indicators, especially employment, means that the identification of a recession with two consecutive quarters of negative GDP growth does not always hold. For information on [...] recession, or business-cycle, dating, see:",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8666666666666667,
+        "domain_score": 0.3,
+        "rank_score": 1.1666666666666667
+      },
+      {
+        "url": "https://www.imf.org/external/pubs/ft/fandd/basics/recess.htm",
+        "title": "Recession: When Bad Times Prevail - Back to Basics",
+        "snippet": "In the United States, the private National Bureau of Economic Research (NBER), which maintains a chronology of the beginning and ending dates of U.S. recessions, uses a broader definition and considers a number of measures of activity to determine the dates of recessions. The NBER\u2019s Business Cycle Dating Committee defines a recession as _\u201ca significant decline in economic activity spread across the economy, lasting more than a few months, normally visible in production, employment, real income, [...] Although an economy can show signs of weakening months before a recession begins, the process of determining whether a country is in a true recession often takes time. For example, it took the NBER committee a year to announce the beginning and end dates of the most recent U.S. recession. This is understandable. The decision process involves establishing a broad decline in economic activity over an extended period of time, after compiling and sifting through many variables, which are often [...] The latest U.S. recession\u2014which began in December 2007 and ended in June 2009\u2014was the longest (18 months) and deepest (about a 3.7 percent decline in output) the country has experienced since 1960. The typical U.S. recession prior to 2007 lasted about 11 months and resulted in a peak-to-trough output decline of 1.7 percent. Although investment and industrial production fell in every recession, consumption registered a decline in only four out of eight episodes since 1960.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      },
+      {
+        "url": "https://www.nber.org/research/business-cycle-dating/business-cycle-dating-procedure-frequently-asked-questions",
+        "title": "Business Cycle Dating Procedure: Frequently Asked Questions",
+        "snippet": "A: The NBER does not define a special category called a double-dip recession. Two periods of contraction will be either two separate recessions or parts of the same recession. The main criterion used to determine whether a downturn following one business cycle peak and apparent trough is a separate recession or the continuation of the earlier one is the duration and strength of the upturn after the initial trough. For example, our determination that the recession that began in 1981 was separate [...] A: The NBER does not separately identify depressions in its business cycle chronology. The period between a peak and a trough is a contraction or a recession, and the period between the trough and the peak is an expansion. The term depression is often used to refer to a particularly severe period of economic weakness. Some economists use it to refer only to the portion of these periods when economic activity is declining. The more common use, however, also encompasses the time until economic [...] A: There are several reasons. First, we do not identify economic activity solely with real GDP, but consider a range of indicators. Second, we consider the depth of the decline in economic activity. The NBER definition includes the phrase, \u201ca significant decline in economic activity.\"Thus real GDP could decline by relatively small amounts in two consecutive quarters without warranting the determination that a peak had occurred. Third, our main focus is on the monthly chronology, which requires",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      },
+      {
+        "url": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions",
+        "title": "US Business Cycle Expansions and Contractions | NBER",
+        "snippet": "# US Business Cycle Expansions and Contractions\n\nRecessions \u2014 contractions in economic activity \u2014 start in the month after a peak in the business cycle, and end in the month of the trough.\n\nShare\n\nX   LinkedIn   Facebook   Bluesky   Threads   Email  Link\n\nSource NBER\n\nDownloadable Excel File of Business Cycle Expansions and Contractions and .PDF version\n\nJSON file format\n\nFAQs and additional information on how the NBER's Business Cycle Dating Committee identifies turning points [...] In addition to working papers, the NBER disseminates affiliates\u2019 latest findings through a range of free periodicals \u2014 the NBER Reporter, the NBER Digest, the Bulletin on Health, and the Bulletin on Entrepreneurship \u2014 as well as online conference reports, video lectures, and interviews.\n\n2025, 17th Annual Feldstein Lecture, N. Gregory Mankiw,\" The Fiscal Future\"\n\n Feldstein Lecture\n\n Presenter:  N. Gregory Mankiw [...] Business cycle data last updated: 03/14/2023",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      },
+      {
+        "url": "https://www.congress.gov/crs-product/IF12774",
+        "title": "Defining Recession | Congress.gov",
+        "snippet": "There have been eight U.S. recessions since 1970. Figure 1 below shows how well each rule of thumb predicted or coincided with historical recessions, using one quarter prior as the predictive criteria. Under these criteria, the inverted yield curve is the only rule that provides any predictive power beforehand, but it also misses more recessions than the others do. The Sahm rule was the only rule to identify all recessions once they started, but it also got triggered one time without a [...] GDP, often characterized as \"negative growth.\" GDP is the primary measure of economic activity, so it stands to reason that recessions would feature some amount of negative growth. Each of the 12 U.S. recessions since 1947 has featured negative growth. However, not all recessions feature _two consecutive quarters_ of negative growth. For example, the recession that occurred at the beginning of the COVID-19 pandemic was two months long, not even the length of one quarter. In addition, two [...] Economist Claudia Sahm created a popular real-time recession indicator in 2019. The Sahm rule is triggered when the three-month moving average of the unemployment rate increases by 0.5 percentage points or more relative to its low in the previous 12 months. The Sahm rule has typically been triggered in the beginning months of a recession, so it does not predict recessions beforehand as much as indicate that one is occurring. Still, an indicator triggered in the first months of a recession would",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      },
+      {
+        "url": "https://web.stanford.edu/~rehall/BusCycle%204-10-03.pdf",
+        "title": "[PDF] The NBER's Business-Cycle Dating Procedure",
+        "snippet": "the NBER\u2019s recession dating procedure? A: Most of the recessions identified by our procedures do consist of two or more quarters of declining real GDP, but not all of them. According to current data for 2001, the present recession falls into the general pattern, with three consecutive quarters of decline. Our procedure differs from the two-quarter rule in a number of ways. First, we use monthly indicators to arrive at a monthly chronology. Second, we use indicators subject to much less frequent [...] turning points? A: The first step would be to determine if the period of weakness amounts to a recession. In this determination, we would refer to our standard criteria of depth, duration, and dispersion. The definition of a recession is stated in the third paragraph of this memo. The second step would be to determine if the recession starting some time in 2003 was a continuation of the recession that we have already determined began in March 2001. We would decide in favor of a single, longer [...] period is an expansion. Economic activity is below normal or diminished for some part of the recession and for some part of the following expansion as well. Some call the period of diminished activity a slump. Q: How does the NBER balance the differing behavior of employment and output? A: Following the precedents established in many decades of maintaining its business cycle chronology, the NBER considers employment, production, sales, and real income. When special factors\u2014such as unusual",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      },
+      {
+        "url": "https://www.nber.org/news/business-cycle-dating-committee-announcement-june-8-2020",
+        "title": "Business Cycle Dating Committee Announcement June 8, 2020",
+        "snippet": "The usual definition of a recession involves a decline in economic activity that lasts more than a few months. However, in deciding whether to identify a recession, the committee weighs the depth of the contraction, its duration, and whether economic activity declined broadly across the economy (the diffusion of the downturn). The committee recognizes that the pandemic and the public health response have resulted in a downturn with different characteristics and dynamics than prior recessions. [...] \u00a9 2025 National Bureau of Economic Research. All Rights Reserved. [...] A recession is a significant decline in economic activity spread across the economy, normally visible in production, employment, and other indicators. A recession begins when the economy reaches a peak of economic activity and ends when the economy reaches its trough. Between trough and peak, the economy is in an expansion.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      },
+      {
+        "url": "https://den.mercer.edu/what-is-a-recession-and-is-the-u-s-in-one-mercer-economists-explain/",
+        "title": "What is a recession and is the U.S. in one? Mercer economists explain",
+        "snippet": "A recession is a significant downturn in economic activity reflected in a decline in the growth of gross domestic product, or GDP. GDP is the monetary value of all final goods and services produced in a country.\n\n\u201cThe conventional definition has been if you have two consecutive quarters of negative growth in your GDP, then you are very likely in a recession,\u201d Dr. Saravia said. [...] \u201c(We have) two consecutive quarters of negative growth rates, and whenever that has happened, since at least the 1940s, the National Bureau of Economic Research has declared that period a recession,\u201d Dr. Saravia said.\n\nThe nonprofit National Bureau of Economic Research officially decides whether the U.S. economy is in a recession, but it hasn\u2019t made that call yet. [...] What is a recession and is the U.S. in one? Economists explain\n\nFacebookInstagramLinkedinYoutube\n\n   Explore\n       Discovery and Innovation\n       Health and Wellness\n       Life at Mercer\n       People\n       Service\n       Viewpoints\n\n   Mercer News\n   About\n   Contact\n\nSearch\n\n\n\nAs the country continues to grapple with high inflation, many Americans fear a recession. The Den talked to two Mercer University economists about what a recession is, how we got here and what we can do about it.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      },
+      {
+        "url": "https://www.congress.gov/crs-product/R47479",
+        "title": "Common Causes of Economic Recession - Congress.gov",
+        "snippet": "Recessions are the result of shocks to aggregate supply or aggregate demand in the economy or both. A supply shock occurs when something reduces the economy's ability to produce output at a given price level. A demand shock occurs when something reduces businesses' and households' willingness to consume and invest at a given price level. Supply-induced recessions tend to be characterized by decreased output and increased prices, while demand-induced recessions tend to be characterized by both [...] A major reason that recessions can be difficult to predict (and why it is difficult to know if the United States is currently headed for recession) is that recessions can have several different proximate causes. Further, whether or not a policy stance, specific event, or trend in the economy results in recession is context dependent. However, there are certain fairly common causes of recession in the United States. This report provides an overview of recessions and discusses some common causes, [...] The financial crisis that began in 2007 led to one of the longest recorded U.S. recessions, often nicknamed the \"Great Recession\" owing to its deep and prolonged nature, followed by a sluggish economic recovery. The financial crisis was precipitated by a housing market crash. In the lead up there was a housing bubble, where prices rose rapidly and unsustainably, mortgage borrowing increased, and underwriting standards deteriorated. As the housing market turned and home prices fell, financial",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      }
+    ],
+    "status": "complete"
+  },
+  {
+    "sub_question_id": "q2",
+    "sub_question_text": "What are the broad categories or theoretical frameworks for the causes of US recessions?",
+    "queries_executed": [
+      {
+        "query": "theories of US recession causes",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "types of economic shocks leading to recession US",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "macroeconomic models of recessionary periods",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "theoretical explanations for US economic contractions",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "why do US economies shrink",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "evolution of recession theories US",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      }
+    ],
+    "total_results_found": 39,
+    "results": [
+      {
+        "url": "https://sites.krieger.jhu.edu/iae/files/2017/04/Curott_Watts_Recession_of_1797.pdf",
+        "title": "[PDF] What Caused the Recession of 1797? - Krieger Web Services",
+        "snippet": "1790s US economy, but broadly speaking two explanations for the recession of 1797 are apparent in the literature. The most prominent has been the tendency to link the performance of the early US economy directly to those of its European trading partners. A prime example is given by Douglas North: \"One need look no further than to events in Europe to account for almost every twist and turn in the fortunes of the American economy during these years [1793-1814]\" (1961, 36). North observed the [...] hopeful that further research into the exact nature of business financing, and business failures, especially in the capital-intensive sectors of the US economy discussed above, will provide precise confirmation of this thesis. Still, we are confident in claiming that, at least in broad terms, the credit expansion unleashed by the First Bank of the United States corresponds to the monetary overexpansion theory of the boom-bust cycle that was witnessed during the late 1790s in the US economy. 16 [...] trade fell but rebounded very quickly as European belligerents in the Napoleonic Wars sought vital foodstuffs and war materiel from America. If foreign trade alone were the driving force of US economic activity, how can we account for recession in the midst of an export boom? The influence of fluctuating foreign trade conditions on the early US economy cannot be ignored, nor can the place of speculators in securities, land, and industry. Our goal here has been to point to a more foundational",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.7692307692307693,
+        "domain_score": 0.3,
+        "rank_score": 1.0692307692307692
+      },
+      {
+        "url": "https://www.congress.gov/crs-product/R47479",
+        "title": "Common Causes of Economic Recession - Congress.gov",
+        "snippet": "The proximate causes of recession are many and varied. Any number of events can send the economy toward recession by affecting aggregate demand, aggregate supply, or both. Sometimes determining a single causal event is not possible\u2014the belief by consumers and businesses that the economy may slow in the near future can result in large enough behavior changes to result in recession. Oftentimes, however, economists can point to a specific event. A few of those most common causes of recession in [...] A major reason that recessions can be difficult to predict (and why it is difficult to know if the United States is currently headed for recession) is that recessions can have several different proximate causes. Further, whether or not a policy stance, specific event, or trend in the economy results in recession is context dependent. However, there are certain fairly common causes of recession in the United States. This report provides an overview of recessions and discusses some common causes, [...] The financial crisis that began in 2007 led to one of the longest recorded U.S. recessions, often nicknamed the \"Great Recession\" owing to its deep and prolonged nature, followed by a sluggish economic recovery. The financial crisis was precipitated by a housing market crash. In the lead up there was a housing bubble, where prices rose rapidly and unsustainably, mortgage borrowing increased, and underwriting standards deteriorated. As the housing market turned and home prices fell, financial",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.7230769230769231,
+        "domain_score": 0.3,
+        "rank_score": 1.023076923076923
+      },
+      {
+        "url": "https://www.nationaldebtrelief.com/blog/financial-wellness/financial-education/economy-recession-understanding-causes-impacts-and-recovery-timelines/",
+        "title": "Economy Recession: Causes, Impacts, and Recovery Timelines",
+        "snippet": "3. Psychological factors: Fear and uncertainty among consumers and businesses can also drive recessions. If people expect economic trouble, they tend to reduce spending, causing companies to cut back operations, which further damages the economy.\n4. External shocks: Unexpected global events, such as the COVID-19 pandemic or geopolitical conflicts, can disrupt economies and spark recessions. These shocks reduce consumer confidence, strain supply chains and create financial instability. [...] 2. Financial triggers: Financial crises, such as credit bubbles or the collapse of major financial institutions, may lead to recessions. The 2008 financial crisis, for example, was fueled by excessive risk-taking in mortgage lending, resulting in a cascade of economic failures. [...] 5. Monetary policy issues: Recessions can also result from monetary policies, such as rising interest rates, which reduce borrowing and spending. The Federal Reserve, for instance, may raise rates to control inflation, but this can have the side effect of slowing economic growth beyond what is desirable, leading to a recession.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.7230769230769231,
+        "domain_score": 0.3,
+        "rank_score": 1.023076923076923
+      },
+      {
+        "url": "https://www.nber.org/research/business-cycle-dating",
+        "title": "Business Cycle Dating | NBER",
+        "snippet": "The NBER\u2019s Business Cycle Dating Committee maintains a chronology of US business cycles. The chronology identifies the months of peaks and troughs of economic activity. Expansions are the periods between a trough and a peak; recessions are the periods between a peak and a trough. By convention, the NBER classifies the peak month as the last month of the expansion and the trough month as the last month of the recession. Expansion is the normal state of the economy; most recessions are brief. [...] The NBER's definition emphasizes that a recession involves a significant decline in economic activity that is spread across the economy and lasts more than a few months. In our interpretation of this definition, we treat the three criteria \u2014 depth, diffusion, and duration \u2014 as somewhat interchangeable. That is, while each criterion needs to be met individually to some degree, extreme conditions revealed by one criterion may partially offset weaker indications from another. For example, in the [...] case of the February 2020 peak in economic activity, the committee concluded that the subsequent drop in activity had been so great and so widely diffused throughout the economy that, even if it proved to be quite brief, the downturn should be classified as a recession.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.7230769230769231,
+        "domain_score": 0.3,
+        "rank_score": 1.023076923076923
+      },
+      {
+        "url": "https://bipr.jhu.edu/BlogArticles/22-US-Economy-is-Headed-for-Recession.cfm",
+        "title": "US Economy is Headed for Recession - BIPR",
+        "snippet": "US Economy is Headed for Recession  \n  \n Converging global and domestic factors will cause the United States economy to experience a recession within the next 18 months. The looming economic crisis foretells a weakening of the domestic market and will become a prominent focus of the 2024 US election debates.   \n  \n Analysis [...] The US economy will be simultaneously impacted by several factors: over-expenditures and dwindling funds in the aftermath of the COVID-19 pandemic, vulnerability of big firms, surge in oil and energy prices, and an inverted yield curve.   \n  \n Covid-19 Effects and Inflation [...] The post-Covid economic backlash, in conjunction with faltering external economies and global conflict will directly impact US domestic interests, foreshadowing an emerging recession in the next 18 months with implications for consumers and investors both in the US and abroad.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.676923076923077,
+        "domain_score": 0.3,
+        "rank_score": 0.976923076923077
+      },
+      {
+        "url": "https://www.imf.org/external/pubs/ft/fandd/basics/recess.htm",
+        "title": "Recession: When Bad Times Prevail - Back to Basics",
+        "snippet": "The crisis was accompanied by recessions in many countries. This pattern is consistent with the historical record. Simultaneous, or synchronized, recessions have occurred in advanced economies several times in the past four decades\u2014the mid-1970s, early 1980s, early 1990s, and early 2000s. Because the United States is the world\u2019s largest economy and has strong trade and financial linkages with many other economies, most of these globally synchronized recession episodes also coincide with U.S. [...] depression coincided with the breakup of the Soviet Union, a large trading partner of Finland. During the Great Depression, the U.S. economy contracted by about 30 percent over a four-year period. Although the latest recession is obviously severe, its output cost was much smaller than that of the Great Depression. [...] Understanding the sources of recessions has been one of the enduring areas of research in economics. There are a variety of reasons recessions take place. Some are associated with sharp changes in the prices of the inputs used in producing goods and services. For example, a steep increase in oil prices can be a harbinger of a recession. As energy becomes expensive, it pushes up the overall price level, leading to a decline in aggregate demand. A recession can also be triggered by a country\u2019s",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.676923076923077,
+        "domain_score": 0.3,
+        "rank_score": 0.976923076923077
+      },
+      {
+        "url": "https://direct.mit.edu/rest/article/104/2/246/97713/Why-Has-the-U-S-Economy-Stagnated-since-the-Great",
+        "title": "Why Has the U.S. Economy Stagnated since the Great Recession?",
+        "snippet": "the general model in equation (3) with only one contractionary regime and corresponds to the original bounceback model in Kim et al. (2005): [...] restricted version of the model in Kim et al. (2005) that is related to Kim and Nelson (1999a). The idea of allowing for different contractionary regimes is strongly motivated by Eo and Kim (2016), who find a Markov-switching model with time-varying, regime-dependent mean growth rates that depend on each other across booms and recessions fits the U.S. data better than the simpler Markov-switching models in Hamilton (1989) and Kim et al. (2005). [...] To identify the contractionary regimes as corresponding to two different types of recessions, we assume that the economy does not switch between contractionary regimes without going through an expansionary regime first. This sequencing of regimes is imposed using the following restrictions on the regime transition probabilities: p 12=0 and p 21=0\u2060. Meanwhile, the \u03bb 2 parameter is the key distinctive feature of the U-shaped contractionary regime in equation (1) because it allows for a bounceback",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.6307692307692307,
+        "domain_score": 0.3,
+        "rank_score": 0.9307692307692308
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5959048/",
+        "title": "The U.S. Labor Market During and After the Great Recession",
+        "snippet": "### Explanations of the Great Recession and Its Aftermath [...] Several mechanisms have been suggested for explaining the lasting effects of job loss and the sluggishness in the labor market after the Great Recession. A popular view is that recessions involve structural changes and require workers to adjust to new skill demands (or to skill demands appearing in other regions). As previously mentioned, there have been contrasting findings as to the role of structural change, mismatch, and reallocation during recessions in general and the Great Recession in [...] Several articles in this volume contribute further to our understanding of the potential explanations of the Great Recession and the protracted recovery that followed. The article by Rothstein disputes the idea that the Great Recession has produced a \u201cnew normal\u201d characterized by structural unemployment. He convincingly shows that wages have not been increasing, holding the composition of employment constant. Such a finding is inconsistent with the view that a lack of appropriate workers",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.6307692307692307,
+        "domain_score": 0.3,
+        "rank_score": 0.9307692307692308
+      },
+      {
+        "url": "https://www.federalreserve.gov/econres/notes/feds-notes/financial-and-macroeconomic-indicators-of-recession-risk-20220621.html",
+        "title": "The Fed - Financial and Macroeconomic Indicators of Recession Risk",
+        "snippet": "##### Figure 5. Recession probability (next eight quarters) from macroeconomic indicators model [...] ##### Figure 4. Recession probability (next four quarters) from macroeconomic indicators model [...] A range of approaches have been considered. One strand of analysis uses financial market variables\u2014often the slope of the yield curve\u2014to assess recession risk. A second strand augments the first approach by adding leading indicators (which summarize confidence and economic activity indicators) to recession prediction models. A third approach considers the state of the macroeconomy\u2014inflation and the business cycle, as measured by the unemployment rate\u2014because historical analyses have emphasized",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.5846153846153846,
+        "domain_score": 0.3,
+        "rank_score": 0.8846153846153846
+      },
+      {
+        "url": "https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/recession",
+        "title": "Recession: When Bad Times Prevail - International Monetary Fund",
+        "snippet": "depression coincided with the breakup of the Soviet Union, a large trading partner of Finland. During the Great Depression, the US economy contracted by about 30 percent over a four-year period. Although the latest recession was obviously severe, its output cost was much smaller than that of the Great Depression. [...] The latest US recession\u2014which began in December 2007 and ended in June 2009\u2014was the longest (18 months) and deepest (about a 3.7 percent decline in output) the country has experienced since 1960. The typical US recession prior to 2007 lasted about 11 months and resulted in a peak-to-trough output decline of 1.7 percent. Although investment and industrial production fell in every recession, consumption registered a decline in only four out of eight episodes since 1960. [...] Although US recessions had become milder over time, the recent global crisis reversed that trend. The latest episode was one of the longest and deepest recessions since the Great Depression of the 1930s. It led to a sharp increase in unemployment\u2014along with substantial declines in output, consumption, and investment.\n\n###### Calling a recession",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.5846153846153846,
+        "domain_score": 0.3,
+        "rank_score": 0.8846153846153846
+      }
+    ],
+    "status": "complete"
+  },
+  {
+    "sub_question_id": "q3",
+    "sub_question_text": "What are the specific, commonly cited mechanisms and historical events that have triggered US recessions?",
+    "queries_executed": [
+      {
+        "query": "common causes of US recessions examples",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "specific triggers of US economic downturns",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "financial crises leading to US recession",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "oil shocks and US recessions",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "monetary policy tightening US recession",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "asset bubbles and US recessions",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "empirical analysis of US recession catalysts",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "what makes the US economy go down historically",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "post-WWII US recession causes timeline",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      }
+    ],
+    "total_results_found": 69,
+    "results": [
+      {
+        "url": "https://gattonweb.uky.edu/faculty/herrera/documents/HKR_JEPO.pdf",
+        "title": "[PDF] Oil Price Shocks and U.S. Economic Activity - University of Kentucky",
+        "snippet": "5 Oil Price Shocks and Stock Returns Empirical studies on the e\u00a4ect of oil price shocks on stock returns have produced somewhat con\u2021icting results over the years. On the one hand, the earlier work of Chen, Roll and Ross (1986) and Huang, Masulis and Stroll (1996) failed to \u2026nd a signi\u2026cant relationship between prices of oil futures and stock returns. On the same vein, the more recent study of Wei (2003) found that the oil price shock of 1973-74 had no signi\u2026cant e\u00a4ect on U.S. stock returns. On [...] contribution of the systematic monetary policy response to the recessionary e\u00a4ect of an oil-price shock? Their work, which uses a calibrated general equilibrium model, supports the \u2026ndings of the empirical literature in the sense that none of the monetary policies commonly proposed are able to completely eliminate the recessionary impact of an oil price shock. [...] 4 Oil price shocks and U.S. economic activity In this section, we review the empirical studies that analyze the e\u00a4ect of oil prices shocks on U.S. economic activity. To get a better view on the empirical relevance of the various transmission mechanisms, we also discuss papers that investigate the impact of oil prices on aggregate output, consumption, investment and stock returns.\n2See Kilian and Zhou (2018) for a detailed discussion.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.76,
+        "domain_score": 0.3,
+        "rank_score": 1.06
+      },
+      {
+        "url": "https://www.congress.gov/crs-product/R47479",
+        "title": "Common Causes of Economic Recession - Congress.gov",
+        "snippet": "A major reason that recessions can be difficult to predict (and why it is difficult to know if the United States is currently headed for recession) is that recessions can have several different proximate causes. Further, whether or not a policy stance, specific event, or trend in the economy results in recession is context dependent. However, there are certain fairly common causes of recession in the United States. This report provides an overview of recessions and discusses some common causes, [...] The proximate causes of recession are many and varied. Any number of events can send the economy toward recession by affecting aggregate demand, aggregate supply, or both. Sometimes determining a single causal event is not possible\u2014the belief by consumers and businesses that the economy may slow in the near future can result in large enough behavior changes to result in recession. Oftentimes, however, economists can point to a specific event. A few of those most common causes of recession in [...] While supply shocks can come from anywhere in supply chains, typically shocks to inputs of the production process that are integral to production across the economy are the most likely to result in recession. For example, oil shocks are one of the most common causes of supply-related recession, as oil products (and other sources of energy) are used in the production of nearly all goods and services within the United States in addition to being a direct-to-consumer commodity. Other major",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.6799999999999999,
+        "domain_score": 0.3,
+        "rank_score": 0.98
+      },
+      {
+        "url": "https://markus.scholar.princeton.edu/document/185",
+        "title": "[PDF] Bubbles and Central Banks: Historical Perspectives",
+        "snippet": "criticized for having promoted the recession by pricking the bubble (Patrick, 1998, p. 12). However, the 19 counterfactual is unclear. It is well conceivable that a further expansion of the bubble would have led to an even more severe recession. Once asset prices have risen to unsustainable levels, all policy options can be costly. But there are also episodes in our sample where the pricking of a bubble was not followed by a severe recession. For example, the deflation of share prices by [...] quite harsh, leading to the bursting of the bubble, discussed next. Hypothesis 4: Leaning interest rate policy may be harmful if it is too strong In both of the just mentioned episodes (the United States in 1929 and Japan in 1990), the interest rate response was late but strong, contributing to the bursting of the respective bubbles (\u201cpricking\u201d). White (1990, p. 82) criticizes the Federal Reserve for having pushed the U. S. economy even further into recession. Similarly, the Bank of Japan was [...] and the bursting of the bubble led to a deep recession and one of Britain\u2019s worst banking panics. Another example is the U. S. stock price bubble in the late 1920s, when interest rates were raised after the bubble had already grown to an unsustainable level. Similarly, the increase in interest rates came very late in the Japanese crisis, and the economy entered into a long\u2010lasting depression sometimes called the \u201clost decade.\u201d When interest rates were finally raised, the response was often",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.6799999999999999,
+        "domain_score": 0.3,
+        "rank_score": 0.98
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5959048/",
+        "title": "The U.S. Labor Market During and After the Great Recession",
+        "snippet": "causes of the Great Recession and the protracted weakness in the labor market that followed. With the benefit of having access to data spanning the long recovery, several articles in the volume contribute new empirical findings that inform our understanding of alternative economic channels. The article by Jesse Rothstein studies how the role of mismatches and wage growth evolved before and during the Great Recession and has continued to evolve since its official end. Brian L. Levy, Ted Mouw, [...] Some important consequences often associated with the Great Recession may have their roots in events beginning in the United States in the mid-1970s. The Great Recession is likely to have interacted with or exacerbated several preexisting trends in the U.S. economy, some of which may have been masked by the dot.com and housing bubbles.3 During the past decades, there was a confluence of events that gained traction, such as the rise of global competition, technological advances such as the [...] The initial efforts to understand the sources of the sudden and large downturn associated with the Great Recession focused on several partly intertwined areas. The main suspects were the bursting of the housing bubble and the financial crisis that began with the collapse of Lehman Brothers in September 2008, which led to a substantial contraction in the availability of credit and the need for protracted deleveraging among households (Hall 2014). Others emphasized the potential role of",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.6799999999999999,
+        "domain_score": 0.3,
+        "rank_score": 0.98
+      },
+      {
+        "url": "https://www.brookings.edu/wp-content/uploads/2019/05/AutoStabilizers_framingchapter_web_20190506.pdf",
+        "title": "[PDF] The Damage Done by Recessions and How to Respond",
+        "snippet": "Highlights of the American Recovery and Reinvestment Act On February 17, 2009, President Barack Obama signed the American Recovery and Reinvestment Act (ARRA) into law. This massive bill sought to stimulate the U.S. economy, which was mired in the worst economic recession since World War II. As shown in box table 2, ARRA injected stimulus into the U.S. economy through a variety of channels, including tax cuts and spending increases. The lion\u2019s share of these spending increases was in the form [...] 2014; Serrato and Wingender 2016; Wilson 2012) and those that derive from changes in national policy (Blinder and Zandi 2015; Owyang, Ramey, and Zubairy 2013). In a recent survey, Chodorow-Reich (2019) assesses the empirical and theoretical bodies of literature on both cross-sectional and national fiscal multipliers, finding a preferred estimate of 1.8 for the former and a lower bound of 1.7 for the latter (assuming no monetary policy response). What Have We Learned about Fiscal Stimulus from [...] Heather Boushey, Ryan Nunn, Jimmy O\u2019Donnell, and Jay Shambaugh 22 -1 0 1 2 3 4 Expansion Recession Expansion Recession Expansion Recession Total spending Consumption spending Investment spending Fiscal multiplier BOX 1. Discretionary and Automatic Fiscal Policy Governments run surpluses or deficits, and in the United States, the budget is rarely balanced. Fiscal stimulus typically means raising spending or cutting taxes\u2014via either discretionary policy choices or automatic stabilizers\u2014both of",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.6799999999999999,
+        "domain_score": 0.3,
+        "rank_score": 0.98
+      },
+      {
+        "url": "https://www.pimco.com/us/en/resources/education/recessions-what-investors-need-to-know",
+        "title": "Recessions: What Investors Need to Know - PIMCO",
+        "snippet": "The nature and causes of U.S. recessions have varied, and have been generally characterized by a decline in consumer and business spending. Consumer spending greatly affects economic activity, accounting for 68% of U.S. Gross Domestic Product (GDP).Footnote4\n\nSome examples of the causes of recessions include: [...] An overheated economy \u2013 characterized by low unemployment, rising inflation, and asset valuation bubbles, which may cause central banks worldwide to tighten financial conditions by raising short-term interest rates; examples of asset valuation bubbles that led to recessions included the dotcom bubble in 2001, and the real estate bubble that led to the 2008 Global Financial Crisis [...] Exhibit 2 shows U.S. recessions from the 1950s through 2020 and the various economic variables (measured at the peak of the business cycle) that contributed to recessions, including changes in inflation, oil prices, interest rates, credit/debt to GDP, and real (inflation-adjusted) corporate earnings.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.64,
+        "domain_score": 0.3,
+        "rank_score": 0.94
+      },
+      {
+        "url": "https://www.rba.gov.au/education/resources/explainers/the-global-financial-crisis.html",
+        "title": "The Global Financial Crisis | Explainer | Education | RBA",
+        "snippet": "The catalysts for the GFC were falling US house prices and a rising number of borrowers unable to repay their loans. House prices in the United States peaked around mid 2006, coinciding with a rapidly rising supply of newly built houses in some areas. As house prices began to fall, the share of borrowers that failed to make their loan repayments began to rise. Loan repayments were particularly sensitive to house prices in the United States because the proportion of US households (both [...] markets became dysfunctional as everyone tried to sell at the same time and many institutions wanting new financing could not obtain it. Businesses also became much less willing to invest and households less willing to spend as confidence collapsed. As a result, the United States and some other economies fell into their deepest recessions since the Great Depression. [...] Financial stresses peaked following the failure of the US financial firm Lehman Brothers in September 2008. Together with the failure or near failure of a range of other financial firms around that time, this triggered a panic in financial markets globally. Investors began pulling their money out of banks and investment funds around the world as they did not know who might be next to fail and how exposed each institution was to subprime and other distressed loans. Consequently, financial",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.64,
+        "domain_score": 0.3,
+        "rank_score": 0.94
+      },
+      {
+        "url": "https://econweb.ucsd.edu/~jhamilto/oil_history.pdf",
+        "title": "[PDF] Historical Oil Shocks* - UC San Diego Department of Economics",
+        "snippet": "perspective of oil consumers, this represented an \u201coil shock\u201d for the producers. Hamilton and Owyang (forthcoming) found that the U.S. oil-producing states experienced their own regional recession in the mid 1980s. 1990-1991: First Persian Gulf War. By 1990, Iraqi production had returned to its levels of the late 1970s, only to collapse again (and bring Kuwait\u2019s substantial production down with it) when the country invaded Kuwait in August 1990. The two countries accounted for nearly 9% of [...] This is not to claim that the oil price increases themselves were the sole cause of most postwar recessions. Instead the indicated conclusion is that oil shocks were a contributing factor in at least some postwar recessions. That an oil price increase could exert some drag on the economy of an oil-importing country should not be controversial. On the supply side, energy is a factor of production, and an exogenous decrease in its supply would be expected to be associated with a decline in [...] oil price episodes listed in Table 1 were accompanied by U.S. recessions, the single exception being the 2003 oil price increase associated with the Venezuelan unrest and second Persian Gulf War. The correlation between oil shocks and economic recessions appears to be too strong to be just a coincidence (Hamilton, 1983a, 1985). And although demand pressure associated with the later stages of a business cycle expansion seems to have been a contributing factor in a number of these episodes,",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.64,
+        "domain_score": 0.3,
+        "rank_score": 0.94
+      },
+      {
+        "url": "https://www.federalreserve.gov/pubs/ifdp/2014/1114/ifdp1114.pdf",
+        "title": "[PDF] The Role of Oil Price Shocks in Causing U.S. Recessions",
+        "snippet": "For example, in the linear model oil price shocks explain at most a 1 percent decline in real GDP after 2007Q2 with the remaining decline attributed to other shocks, whereas in the net oil price increase model oil price shocks explain a decline as high as 5 percent of U.S. real GDP. The fact that net oil price increase models of the transmission of oil price shocks suggest a very different interpretation of the U.S. recessions than linear vector autoregressive models means that the question of [...] could also be potentially explained to some extent by changes in the nature of the oil price shocks over time. As shown in Kilian (2009a) and Kilian and Murphy (2014), oil price shocks reflect a variety of demand and supply shocks in oil markets, the composition of which evolves over time. As each shock is associated with different responses in the price of oil and in U.S. real GDP, changes in the composition of oil demand and oil supply shocks can give the appearance of time variation in the [...] two models agree that both the residual shock and the oil price shock lowered U.S. real GDP. Figure 5 highlights that the net oil price increase model provides a substantially different economic interpretation of the evolution of U.S. real GDP in four of the seven episodes considered. These episodes are 1979Q1, 1990Q2, 2004Q2 and 2007Q2. Columns (1) and (2) of Tables 3a and 3b provide a succinct summary of the cumulative effects of oil price shocks on U.S. real GDP during each episode. Table 3a",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.6,
+        "domain_score": 0.3,
+        "rank_score": 0.8999999999999999
+      },
+      {
+        "url": "https://www.federalreserve.gov/aboutthefed/fedexplained/monetary-policy.htm",
+        "title": "The Fed Explained - Monetary Policy - Federal Reserve Board",
+        "snippet": "Lowering that target range represents an \"easing\" of monetary policy because it is accompanied by lower short-term interest rates in financial markets and a loosening in broader financial conditions. This action may be needed if the economy is sluggish or inflation is too low. Raising the target range represents a \"tightening\" of monetary policy, which raises interest rates and may be necessary if the economy is overheating or inflation is too high. [...] Lowering that target range represents an \"easing\" of monetary policy because it is accompanied by lower short-term interest rates in financial markets and a loosening in broader financial conditions. This action may be needed if the economy is sluggish or inflation is too low. Raising the target range represents a \"tightening\" of monetary policy, which raises interest rates and may be necessary if the economy is overheating or inflation is too high. [...] The Federal Open Market Committee's decision to ease (as in this example) or tighten monetary policy sets off a chain of events.\n\nAccessible Version\n\nOnce the FOMC determines the stance of policy appropriate to achieve its dual mandate objectives, it must then make sure this stance is effectively implemented.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.6,
+        "domain_score": 0.3,
+        "rank_score": 0.8999999999999999
+      }
+    ],
+    "status": "complete"
+  },
+  {
+    "sub_question_id": "q4",
+    "sub_question_text": "How do these causes interact, and what is the role of multi-causality in US recessions?",
+    "queries_executed": [
+      {
+        "query": "multi-causal nature of US recessions",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "interaction of factors in US economic downturns",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "complex causes of specific US recessions [e.g., 2008 financial crisis, 2020 COVID-19 recession, early 1980s recession]",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "synergistic determinants of US economic contractions",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "why are US recessions complicated",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      },
+      {
+        "query": "historical analysis of interacting US recession causes",
+        "source": "tavily",
+        "results_count": 10,
+        "status": "success"
+      }
+    ],
+    "total_results_found": 39,
+    "results": [
+      {
+        "url": "https://www.pimco.com/us/en/resources/education/recessions-what-investors-need-to-know",
+        "title": "Recessions: What Investors Need to Know - PIMCO",
+        "snippet": "The nature and causes of U.S. recessions have varied, and have been generally characterized by a decline in consumer and business spending. Consumer spending greatly affects economic activity, accounting for 68% of U.S. Gross Domestic Product (GDP).Footnote4\n\nSome examples of the causes of recessions include: [...] Exhibit 2 shows U.S. recessions from the 1950s through 2020 and the various economic variables (measured at the peak of the business cycle) that contributed to recessions, including changes in inflation, oil prices, interest rates, credit/debt to GDP, and real (inflation-adjusted) corporate earnings. [...] Historically, recessions have been a natural part of the economic cycle, occurring every 3.25 years in the U.S.\n Between 1945 and 2019, the average U.S. recession lasted approximately 11 months, while the economic expansion that followed lasted an average of 65 months.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5959048/",
+        "title": "The U.S. Labor Market During and After the Great Recession",
+        "snippet": "economic downturns occurred in an environment of slowing population growth and increasing savings. If these and other concurrent developments were associated with a persistent decline in real interest rates, this may contribute to what has been called \u201csecular stagnation\u201d (Summers 2014). One view is that only a large government stimulus can return the economy to a higher path of growth, such as occurred with the New Deal and World War II after the Great Depression. Another, complementary view [...] is that the cyclical slack in the U.S. economy is in fact subsiding, and that secular stagnation began well before the Great Recession (Hall 2014). [...] The initial efforts to understand the sources of the sudden and large downturn associated with the Great Recession focused on several partly intertwined areas. The main suspects were the bursting of the housing bubble and the financial crisis that began with the collapse of Lehman Brothers in September 2008, which led to a substantial contraction in the availability of credit and the need for protracted deleveraging among households (Hall 2014). Others emphasized the potential role of",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.8,
+        "domain_score": 0.3,
+        "rank_score": 1.1
+      },
+      {
+        "url": "https://www.nationaldebtrelief.com/blog/financial-wellness/financial-education/economy-recession-understanding-causes-impacts-and-recovery-timelines/",
+        "title": "Economy Recession: Causes, Impacts, and Recovery Timelines",
+        "snippet": "Recessions differ from depressions, which are more prolonged and severe. A depression, like the Great Depression of the 1930s, may last for many years. Typically, recessions are shorter and less devastating than depressions.\n\n### Causes of a Recession\n\nMultiple factors, often working together, can trigger a recession. Here are the most common causes: [...] While a common benchmark for recession is two consecutive quarters of negative GDP growth, NBER\u2019s definition emphasizes the depth, duration and diffusion of the downturn. This means a recession involves significant drops in multiple economic sectors rather than temporary or isolated events.\n\nFor example, recessions impact both consumer spending and industrial output, making them noticeable across industries. [...] 5. Monetary policy issues: Recessions can also result from monetary policies, such as rising interest rates, which reduce borrowing and spending. The Federal Reserve, for instance, may raise rates to control inflation, but this can have the side effect of slowing economic growth beyond what is desirable, leading to a recession.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.76,
+        "domain_score": 0.3,
+        "rank_score": 1.06
+      },
+      {
+        "url": "https://www.imf.org/external/pubs/ft/fandd/basics/recess.htm",
+        "title": "Recession: When Bad Times Prevail - Back to Basics",
+        "snippet": "The crisis was accompanied by recessions in many countries. This pattern is consistent with the historical record. Simultaneous, or synchronized, recessions have occurred in advanced economies several times in the past four decades\u2014the mid-1970s, early 1980s, early 1990s, and early 2000s. Because the United States is the world\u2019s largest economy and has strong trade and financial linkages with many other economies, most of these globally synchronized recession episodes also coincide with U.S. [...] Other recessions, such as the one that began in 2007, are rooted in financial market problems. Sharp increases in asset prices and a speedy expansion of credit often coincide with rapid accumulation of debt. As corporations and households get overextended and face difficulties in meeting their debt obligations, they reduce investment and consumption, which in turn leads to a decrease in economic activity. Not all such credit booms end up in recessions, but when they do, these recessions are [...] Because recessions have many potential causes, it is a challenge to predict them. The behavioral patterns of numerous economic variables\u2014including credit volume, asset prices, and the unemployment rate\u2014around recessions have been documented, but although they might be the cause of recessions, they could also be the result of recessions\u2014or in economic parlance, endogenous to recessions. Even though economists use a large set of variables to forecast the future behavior of economic activity, none",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.76,
+        "domain_score": 0.3,
+        "rank_score": 1.06
+      },
+      {
+        "url": "https://econ.unc.edu/wp-content/uploads/sites/1423/2025/03/Comparing-the-Great-Recession-and-Pandemic-via-GARCH-Modeling-Techniques-PAPER.pdf",
+        "title": "Comparing the Great Recession and COVID-19 Pandemic ...",
+        "snippet": "the world as an extreme threat, with remarkably high infection rates and a significant mortality rate. In response to this, the financial markets experienced a torrential crash. Between March 4th and March 23rd, the S&P 500 index fell approximately 34%, almost instantaneously ending what had been an historic bull-run. In fact, this was the first bear market that the U.S. had experienced since its last recession, the Great Recession of 2008. In that recession, the causes were somewhat more [...] complex, as it was not simply the uncontained spread of an illness. Relaxed lending standards followed by a plummet in the demand for housing served to destabilize financial institutions and, by extension, their numerous clients. The result was a deleveraged economy in which its downfall was so foundational that the timeline for recovery of said economy was completely uncertain. Financial uncertainty had 3 reverberated throughout the economy, inciting economic uncertainty, which was, then, sent [...] concept. To achieve this goal, three variations of GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models will be used to measure the 5 volatility of index prices representing numerous economic sectors as well as the overall market. From there, correlations will be assessed, and conclusions will be drawn. It is recognized here that it may appear odd to compare two recessions with such seemingly different causes. This is an understandable reaction: one crash was caused by",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.76,
+        "domain_score": 0.3,
+        "rank_score": 1.06
+      },
+      {
+        "url": "https://irle.berkeley.edu/publications/irle-policy-brief/what-really-caused-the-great-recession/",
+        "title": "What Really Caused the Great Recession?",
+        "snippet": "The Great Recession that began in 2008 led to some of the highest recorded rates of unemployment and home foreclosures in the U.S. since the Great Depression. Catalyzed by the crisis in subprime mortgage-backed securities, the crisis spread to mutual funds, pensions, and the corporations that owned these securities, with widespread national and global impacts. Ten years after the onset of the crisis, the impacts on workers and economic inequality persist. In a series of policy briefs, IRLE will [...] The Great Recession devastated local labor markets and the national economy. Ten years later, Berkeley researchers are finding many of the same red flags blamed for the crisis: banks making subprime loans and trading risky securities. Congress just voted to scale back many Dodd-Frank provisions. Does another recession lie around the corner?\n\n## Overview [...] 20. Rich, R. (2013). The Great Recession: December 2007 \u2013 June 2009. Richmond, VA: Federal Reserve Bank of Richmond, Federal Reserve History. Retrieved February 28, 2018, from \n21. U.S. Bureau of Labor Statistics (2012). The recession of 2007-2009. Washington, DC: U.S. Bureau of Labor Statistics. Retrieved February 28, 2018, from \n22. Federal Deposit Insurance Corporation (2016). Bank failures in brief. FDIC. Retrieved March 15, 2018 from",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.76,
+        "domain_score": 0.3,
+        "rank_score": 1.06
+      },
+      {
+        "url": "https://www.congress.gov/crs-product/R47479",
+        "title": "Common Causes of Economic Recession - Congress.gov",
+        "snippet": "A major reason that recessions can be difficult to predict (and why it is difficult to know if the United States is currently headed for recession) is that recessions can have several different proximate causes. Further, whether or not a policy stance, specific event, or trend in the economy results in recession is context dependent. However, there are certain fairly common causes of recession in the United States. This report provides an overview of recessions and discusses some common causes, [...] The proximate causes of recession are many and varied. Any number of events can send the economy toward recession by affecting aggregate demand, aggregate supply, or both. Sometimes determining a single causal event is not possible\u2014the belief by consumers and businesses that the economy may slow in the near future can result in large enough behavior changes to result in recession. Oftentimes, however, economists can point to a specific event. A few of those most common causes of recession in [...] The financial crisis that began in 2007 led to one of the longest recorded U.S. recessions, often nicknamed the \"Great Recession\" owing to its deep and prolonged nature, followed by a sluggish economic recovery. The financial crisis was precipitated by a housing market crash. In the lead up there was a housing bubble, where prices rose rapidly and unsustainably, mortgage borrowing increased, and underwriting standards deteriorated. As the housing market turned and home prices fell, financial",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.72,
+        "domain_score": 0.3,
+        "rank_score": 1.02
+      },
+      {
+        "url": "https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/recession",
+        "title": "Recession: When Bad Times Prevail",
+        "snippet": "Understanding the sources of recessions has been one of the enduring areas of research in economics. There are a variety of reasons recessions take place. Some are associated with sharp changes in the prices of the inputs used in producing goods and services. For example, a steep increase in oil prices can be a harbinger of a recession. As energy becomes expensive, it pushes up the overall price level, leading to a decline in aggregate demand. A recession can also be triggered by a country\u2019s [...] Because recessions have many potential causes, it is a challenge to predict them. The behavioral patterns of numerous economic variables\u2014including credit volume, asset prices, and the unemployment rate\u2014around recessions have been documented, but although they might be the cause of recessions, they could also be the result of recessions\u2014or in economic parlance, endogenous to recessions. Even though economists use a large set of variables to forecast the future behavior of economic activity, none [...] depression coincided with the breakup of the Soviet Union, a large trading partner of Finland. During the Great Depression, the US economy contracted by about 30 percent over a four-year period. Although the latest recession was obviously severe, its output cost was much smaller than that of the Great Depression.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.72,
+        "domain_score": 0.3,
+        "rank_score": 1.02
+      },
+      {
+        "url": "https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Fiscal-Policy",
+        "title": "Fiscal Policy: Taking and Giving Away",
+        "snippet": "The global crisis that had its roots in the 2007 meltdown in the U.S. mortgage market is a good case study in fiscal policy. The crisis hurt economies around the globe, with financial sector difficulties and flagging confidence hitting private consumption, investment, and international trade (all of which affect output, GDP). Governments responded by trying to boost activity through two channels: automatic stabilizers and fiscal stimulus\u2014that is, new discretionary spending or tax cuts. [...] during a downturn. These cyclical changes make fiscal policy automatically expansionary during downturns and contractionary during upturns.",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.72,
+        "domain_score": 0.3,
+        "rank_score": 1.02
+      },
+      {
+        "url": "https://www.rba.gov.au/education/resources/explainers/the-global-financial-crisis.html",
+        "title": "The Global Financial Crisis | Explainer | Education",
+        "snippet": "markets became dysfunctional as everyone tried to sell at the same time and many institutions wanting new financing could not obtain it. Businesses also became much less willing to invest and households less willing to spend as confidence collapsed. As a result, the United States and some other economies fell into their deepest recessions since the Great Depression. [...] ## Main Causes of the GFC\n\nAs for all financial crises, a range of factors explain the GFC and its severity, and people are still debating the relative importance of each factor. Some of the key aspects include:\n\n### 1. Excessive risk-taking in a favourable macroeconomic environment [...] Financial stresses peaked following the failure of the US financial firm Lehman Brothers in September 2008. Together with the failure or near failure of a range of other financial firms around that time, this triggered a panic in financial markets globally. Investors began pulling their money out of banks and investment funds around the world as they did not know who might be next to fail and how exposed each institution was to subprime and other distressed loans. Consequently, financial",
+        "engine": "tavily",
+        "date": null,
+        "relevance_score": 0.72,
+        "domain_score": 0.3,
+        "rank_score": 1.02
+      }
+    ],
+    "status": "complete"
+  }
+]
